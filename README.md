@@ -80,3 +80,7 @@ This project uses grayscale handwritten digits from the **MNIST Database** (save
 * **Design Choices** -> [DESIGN CHOICES.md](./docs/DESIGN%20CHOICES.md) — Architectural notes and activation explanations.
 * **Progress Tracker** -> [PROGRESS.md](./docs/PROGRESS.md) — Project milestones.
 * **Todo Roadmap** -> [TODO.md](./docs/TODO.md) — Planned roadmap.
+<img width="1643" height="818" alt="Screenshot 2026-06-28 162313" src="https://github.com/user-attachments/assets/0e6559bc-7307-4f0d-9397-f49794f017fd" />
+<img width="1707" height="952" alt="Screenshot 2026-06-28 153846" src="https://github.com/user-attachments/assets/7b21da4d-c822-4a7d-9a8f-98bdad3077f1" />
+
+
