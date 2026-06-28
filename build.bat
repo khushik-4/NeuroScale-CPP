@@ -3,7 +3,7 @@ if not exist debug\ mkdir debug\
 set CFLAGS=-W
 set CLIBS=-L./include/ -I./include/
 set COMPILER=g++
-set raylibInclude=-IC:/addtional-libs/raylib-5.0_win64_mingw-w64/include/ -LC:/addtional-libs/raylib-5.0_win64_mingw-w64/lib/ -lraylib -lgdi32 -lwinmm 
+set raylibInclude=-IC:/additional-libs/raylib-6.0_win64_mingw-w64/raylib-6.0_win64_mingw-w64/include/ -LC:/additional-libs/raylib-6.0_win64_mingw-w64/raylib-6.0_win64_mingw-w64/lib/ -lraylib -lgdi32 -lwinmm
 
 @REM %COMPILER% %CFLAGS% "./img2matrix.cpp" %CLIBS% -o "./builds/img2matrix"
 @REM "./builds/img2matrix.exe"

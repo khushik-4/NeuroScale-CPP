@@ -16,6 +16,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <cstdint>
 
 #define MATRIX_PRINT(mat) (mat).print(#mat, 0)
 
